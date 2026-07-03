@@ -80,6 +80,43 @@ AI Agent 国际化技能，自动多语言翻译与本地化。
 
 </td>
 </tr>
+<tr>
+<td width="50%">
+
+**[Videopress](https://github.com/Shirolin/videopress)**
+
+基于 FFmpeg 的 Windows 视频压缩工具，支持硬件加速和右键菜单集成。
+
+![Open Source](https://img.shields.io/badge/Open_Source-22c55e?style=flat)
+![Go](https://img.shields.io/badge/Go-00add8?style=flat&logo=go&logoColor=white)
+
+</td>
+<td width="50%">
+
+**[cf-speedtest-sync](https://github.com/Shirolin/cf-speedtest-sync)**
+
+全平台 Cloudflare 优选 IP 自动同步，自动测速更新 DNS 解析。
+
+![Open Source](https://img.shields.io/badge/Open_Source-22c55e?style=flat)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391fe?style=flat&logo=powershell&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**[xapk-builder](https://github.com/Shirolin/xapk-builder)**
+
+从 Google Play 拉取多语言拆分包，一键封装为标准 XAPK。
+
+![Open Source](https://img.shields.io/badge/Open_Source-22c55e?style=flat)
+![Python](https://img.shields.io/badge/Python-3776ab?style=flat&logo=python&logoColor=white)
+
+</td>
+<td width="50%">
+
+</td>
+</tr>
 </table>
 
 ---
